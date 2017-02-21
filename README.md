@@ -1,2 +1,2 @@
-# DFT-
+# DFT
 Discrete Fourier Transform 
